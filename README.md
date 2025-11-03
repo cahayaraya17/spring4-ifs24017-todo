@@ -8,6 +8,9 @@
 - Menambahkan method 'sayHello()' pada HomeController 
 = Menambhakan pengujian untuk method 'sayHello()'
 
+### 3-11-2025
+
+- Menambahkan 4 endpoint dari praktikum 1 
 
 
 ## Syntax
