@@ -54,12 +54,12 @@ class HomeControllerTest {
     @Test
     @DisplayName("informasiNim - NIM Valid (11S)")
     void informasiNim_Valid() {
-        String nim = "11S24001";
+        String nim = "11S24017";
         String expected = """
-                Inforamsi NIM 11S24001:\s
+                Inforamsi NIM 11S24017:\s
                 >> Program Studi: Sarjana Informatika
                 >> Angkatan: 2024
-                >> Urutan: 1""";
+                >> Urutan: 17""";
 
         ResponseEntity<String> response = controller.informasiNim(nim);
 
