@@ -9,7 +9,7 @@
 = Menambhakan pengujian untuk method 'sayHello()'
 - update homecontroller dan homecontrollertest
 - update 
-
+- the last update 
 ### 3-11-2025
 
 - Menambahkan 4 endpoint dari praktikum 1 
